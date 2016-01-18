@@ -1,0 +1,64 @@
+# Logfile created on 2016-01-18 17:06:17 +0530 by logger.rb/31641
+I, [2016-01-18T17:06:24.586041 #7252]  INFO -- : FEATURE NAME =>Verify one complete flow of shopping
+I, [2016-01-18T17:06:29.594542 #7252]  INFO -- : SCENARIO NAME =>  Verify that user can do one complete end to end shopping
+I, [2016-01-18T17:09:02.384364 #8044]  INFO -- : FEATURE NAME =>Verify one complete flow of shopping
+I, [2016-01-18T17:09:09.899364 #8044]  INFO -- : SCENARIO NAME =>  Verify that user can do one complete end to end shopping
+I, [2016-01-18T17:09:25.856364 #8044]  INFO -- : STEP NAME WHICH FAILED => I should get logged in
+E, [2016-01-18T17:09:25.857364 #8044] ERROR -- : Expected title 'Login1 - My Store' instead of 'Login - My Store'
+I, [2016-01-18T19:50:35.172855 #8504]  INFO -- : FEATURE NAME =>As an operator
+I, [2016-01-18T19:50:56.258855 #8504]  INFO -- : SCENARIO NAME =>  Verify that user can shop
+I, [2016-01-18T19:50:56.400855 #8504]  INFO -- : STEP NAME WHICH FAILED => I provide valid credentials
+E, [2016-01-18T19:50:56.401855 #8504] ERROR -- : nil
+I, [2016-01-18T19:52:12.570855 #9692]  INFO -- : FEATURE NAME =>As an operator
+I, [2016-01-18T19:52:56.957855 #9692]  INFO -- : SCENARIO NAME =>  Verify that user can shop
+I, [2016-01-18T19:52:57.045855 #9692]  INFO -- : STEP NAME WHICH FAILED => I provide valid credentials
+E, [2016-01-18T19:52:57.045855 #9692] ERROR -- : nil
+I, [2016-01-18T20:00:31.457855 #9524]  INFO -- : FEATURE NAME =>As an operator
+I, [2016-01-18T20:00:41.756855 #9524]  INFO -- : SCENARIO NAME =>  Verify that user can shop
+I, [2016-01-18T20:00:41.846855 #9524]  INFO -- : STEP NAME WHICH FAILED => I provide valid credentials
+E, [2016-01-18T20:00:41.846855 #9524] ERROR -- : nil
+I, [2016-01-18T20:01:33.221855 #10808]  INFO -- : FEATURE NAME =>As an operator
+I, [2016-01-18T20:01:49.344855 #10808]  INFO -- : SCENARIO NAME =>  Verify that user can shop
+I, [2016-01-18T20:02:03.723855 #10808]  INFO -- : STEP NAME WHICH FAILED => I should get logged in
+E, [2016-01-18T20:02:03.723855 #10808] ERROR -- : Expected title 'Login1 - My Store' instead of 'Login - My Store'
+I, [2016-01-18T20:03:56.735855 #6748]  INFO -- : FEATURE NAME =>As an operator
+I, [2016-01-18T20:04:07.402855 #6748]  INFO -- : SCENARIO NAME =>  Verify that user can shop
+I, [2016-01-18T20:04:22.856855 #6748]  INFO -- : STEP NAME WHICH FAILED => I click on MY WishList
+E, [2016-01-18T20:04:22.856855 #6748] ERROR -- : nil
+I, [2016-01-18T20:06:08.173855 #7016]  INFO -- : FEATURE NAME =>As an operator
+I, [2016-01-18T20:06:21.225855 #7016]  INFO -- : SCENARIO NAME =>  Verify that user can shop
+I, [2016-01-18T20:06:34.304855 #7016]  INFO -- : STEP NAME WHICH FAILED => I click on MY WishList
+E, [2016-01-18T20:06:34.304855 #7016] ERROR -- : nil
+I, [2016-01-18T20:08:43.414855 #8628]  INFO -- : FEATURE NAME =>As an operator
+I, [2016-01-18T20:08:58.986855 #8628]  INFO -- : SCENARIO NAME =>  Verify that user can shop
+I, [2016-01-18T20:09:14.037855 #8628]  INFO -- : STEP NAME WHICH FAILED => I click on MY WishList
+E, [2016-01-18T20:09:14.037855 #8628] ERROR -- : nil
+I, [2016-01-18T20:11:20.997855 #6784]  INFO -- : FEATURE NAME =>As an operator
+I, [2016-01-18T20:11:35.623855 #6784]  INFO -- : SCENARIO NAME =>  Verify that user can shop
+I, [2016-01-18T20:11:49.128855 #6784]  INFO -- : STEP NAME WHICH FAILED => I click on MY WishList
+E, [2016-01-18T20:11:49.128855 #6784] ERROR -- : nil
+I, [2016-01-18T20:13:23.440855 #11044]  INFO -- : FEATURE NAME =>As an operator
+I, [2016-01-18T20:13:37.794855 #11044]  INFO -- : SCENARIO NAME =>  Verify that user can shop
+I, [2016-01-18T20:13:51.191855 #11044]  INFO -- : STEP NAME WHICH FAILED => I click on MY WishList
+E, [2016-01-18T20:13:51.191855 #11044] ERROR -- : nil
+I, [2016-01-18T20:18:01.480855 #7848]  INFO -- : FEATURE NAME =>As an operator
+I, [2016-01-18T20:18:19.722855 #7848]  INFO -- : SCENARIO NAME =>  Verify that user can shop
+I, [2016-01-18T20:18:33.238855 #7848]  INFO -- : STEP NAME WHICH FAILED => I click on MY WishList
+E, [2016-01-18T20:18:33.238855 #7848] ERROR -- : nil
+I, [2016-01-18T20:20:31.731855 #10676]  INFO -- : FEATURE NAME =>As an operator
+I, [2016-01-18T20:20:45.315855 #10676]  INFO -- : SCENARIO NAME =>  Verify that user can login into Automation Practice site with valid credentials
+I, [2016-01-18T20:21:01.723855 #10676]  INFO -- : STEP NAME WHICH FAILED => I should get logged in
+E, [2016-01-18T20:21:01.723855 #10676] ERROR -- : Expected title 'Login - My Store' instead of 'My account - My Store'
+I, [2016-01-18T20:22:44.806855 #4432]  INFO -- : FEATURE NAME =>As an operator
+I, [2016-01-18T20:22:56.155855 #4432]  INFO -- : SCENARIO NAME =>  Verify that user can login into Automation Practice site with valid credentials
+I, [2016-01-18T20:24:39.751855 #8848]  INFO -- : FEATURE NAME =>As an operator
+I, [2016-01-18T20:24:57.024855 #8848]  INFO -- : SCENARIO NAME =>  Verify that user can shop
+I, [2016-01-18T20:25:13.931855 #8848]  INFO -- : STEP NAME WHICH FAILED => I click on MY WishList
+E, [2016-01-18T20:25:13.931855 #8848] ERROR -- : nil
+I, [2016-01-18T20:28:12.442855 #7488]  INFO -- : FEATURE NAME =>As an operator
+I, [2016-01-18T20:28:26.234855 #7488]  INFO -- : SCENARIO NAME =>  Verify that user can shop
+I, [2016-01-18T20:28:48.107855 #7488]  INFO -- : STEP NAME WHICH FAILED => I click on Save Button
+E, [2016-01-18T20:28:48.107855 #7488] ERROR -- : nil
+I, [2016-01-18T20:30:21.448855 #7200]  INFO -- : FEATURE NAME =>As an operator
+I, [2016-01-18T20:34:18.613855 #9952]  INFO -- : FEATURE NAME =>As an operator
+I, [2016-01-18T20:34:34.083855 #9952]  INFO -- : SCENARIO NAME =>  Verify that user can shop
